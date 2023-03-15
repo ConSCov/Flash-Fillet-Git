@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Food / Item
   - Food / Counter Slot
+  - Food / Cutting Board
+  - Food / Raw
+  - Food / Chopped
+  - Food / Cooked
   layers:
   - Default
   - TransparentFX
