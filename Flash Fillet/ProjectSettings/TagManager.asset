@@ -4,12 +4,19 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Food / Item
   - Food / Counter Slot
   - Food / Cutting Board
   - Food / Raw
   - Food / Chopped
   - Food / Cooked
+  - Food / Pan
+  - Food / Burner
+  - Slot / Meat
+  - Slot / Potato
+  - Pan / Idle
+  - Pan / Slot
+  - Pan / In Use
+  - Plate / Idle
   layers:
   - Default
   - TransparentFX
